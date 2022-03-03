@@ -46,6 +46,10 @@ class CreditsState extends MusicBeatState
 		add(grpOptions);
 
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
+                        ['FruitNinja Mod Creator'],
+			['Oofator,		    'oofator',		    'the idiot that made the mod (subscribe or bf will fart on you)',	 'https://www.youtube.com/c/Oofator',	'0x2CEAFD33'],
+			['FruitNinja Android'],
+			['Boyfriend FNF,		    'nothing',		    'an unimportant guy',	 'https://youtube.com/c/BoyfriendFNF',	'0x2CEAFD33'],
 			['Psych Engine Android Port'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
 			['Psych Engine Team'],
